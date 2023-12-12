@@ -1,2 +1,2 @@
 # magrent 
-io list
+io lis
